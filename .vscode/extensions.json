@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "orta.vscode-jest",
+    "firsttris.vscode-jest-runner",
+    "esbenp.prettier-vscode",
+    "sonarsource.sonarlint-vscode",
+    "dbaeumer.vscode-eslint",
+    "formulahendry.auto-rename-tag",
+    "coenraads.bracket-pair-colorizer",
+    "alexkrechik.cucumberautocomplete",
+    "usernamehw.errorlens",
+    "ms-azuretools.vscode-docker",
+    "formulahendry.auto-close-tag",
+    "naumovs.color-highlight"
+  ]
+}
